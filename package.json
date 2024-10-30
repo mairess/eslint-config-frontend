@@ -2,6 +2,11 @@
   "name": "@maires/eslint-config-frontend",
   "version": "1.0.2",
   "description": "Custom ESLint configuration for frontend projects.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mairess/eslint-config-frontend"
+  },
+  "homepage": "https://github.com/mairess/eslint-config-frontend#readme",
   "main": "index.js",
   "keywords": [
     "eslint",
